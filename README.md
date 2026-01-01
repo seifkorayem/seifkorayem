@@ -1,41 +1,56 @@
-# Hi 👋 I'm Seif
+# Hi 👋 I'm Seif Korayem
 
-🎓 Electrical & Communication Engineering Enthusiast  
-📊 Data Analysis | Signal & Image Processing | Python | SQL  
-📡 Interested in Signal Processing, DOA Estimation, and Data Science
+🎓 Electronics & Communication Engineer  
+📊 Data Engineering | Data Science | Python | SQL  
+🤖 ML • Deep Learning • AI
 
 ---
 
-## 🔧 Technical Skills
-- Programming: Python, MATLAB, SQL
-- Signal Processing: STFT, Filtering, DOA Estimation
-- Image Processing: Filtering, Edge Detection, Frequency Domain
-- Data Analysis: Pandas, NumPy, Visualization
-- Tools: Git, GitHub
+## 🔧 Skills
+- Python, SQL, MATLAB
+- Data Cleaning, ETL, EDA, Data Modeling
+- Feature Engineering, Model Evaluation
+- MySQL, PostgreSQL
+- Git, GitHub
+  
+---
 
+## 🐍 Python Libraries
+- Data & Math: NumPy, Pandas, SciPy
+- Visualization: Matplotlib, Seaborn, Plotly, PygWalker
+- Machine Learning: scikit-learn, XGBoost
+- Deep Learning: TensorFlow, PyTorch
 ---
 
 ## 📌 Projects
-- ☕ Coffee Shop Sales Analysis (SQL)
-- 🖼 Image Processing Projects (Filtering, Edge Detection)
-- 🎧 Audio & Speech Signal Processing
-- 📡 DOA Estimation Techniques
+- ☕ Sales Data Analysis (SQL)
+- 📊 EDA & Data Visualization
+- 🔍 ML Models & Feature Engineering
+
+## 📌 Selected Projects
+- ☕ Coffee Shop Sales Analysis (SQL, Data Modeling, Business Insights)
+- 📊 Exploratory Data Analysis Projects
+- 📈 Data Visualization & Reporting Dashboards
+- 🔍 Feature Engineering & ML Models
 
 ---
 
 ## 📚 Currently Learning
+- Advanced Machine Learning Techniques
+- AI Applications for Signal & Image Processing
+- End-to-End Data Pipelines (ETL & Warehousing)
+- Scalable ML Systems
 - Advanced Signal Processing
-- Machine Learning for Signals
-- Data Visualization & Dashboards
+
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://linkedin.com/in/YourProfile
+## 📫 Contact
+- GitHub: https://github.com/seifkorayem 
+- LinkedIn: www.linkedin.com/in/seifkorayem-s2023
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Passionate about transforming raw data into actionable insights and building scalable data solutions.
 
--->
+
