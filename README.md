@@ -23,11 +23,6 @@
 ---
 
 ## 📌 Projects
-- ☕ Sales Data Analysis (SQL)
-- 📊 EDA & Data Visualization
-- 🔍 ML Models & Feature Engineering
-
-## 📌 Selected Projects
 - ☕ Coffee Shop Sales Analysis (SQL, Data Modeling, Business Insights)
 - 📊 Exploratory Data Analysis Projects
 - 📈 Data Visualization & Reporting Dashboards
