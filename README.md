@@ -23,10 +23,20 @@
 ---
 
 ## 📌 Projects
-- ☕ Coffee Shop Sales Analysis (SQL, Data Modeling, Business Insights)
-- 📊 Exploratory Data Analysis Projects
-- 📈 Data Visualization & Reporting Dashboards
-- 🔍 Feature Engineering & ML Models
+- 🧠 Brain Tumor Classification (ML, Image Processing)  
+  Classified brain MRI images using handcrafted features (shape, texture, statistical) with Random Forest.
+
+- 🐱🐶 Cat vs Dog Classification (ML & DL)  
+  Combined ResNet18 deep features with a linear SVM for accurate image classification.
+
+- 💉 Diabetes Prediction (ML)  
+  Implemented preprocessing, feature engineering, and KNN, Decision Tree & Logistic Regression models with hyperparameter tuning and evaluation.
+
+- 💰 Bank Personal Loan Modelling (ML)  
+  Built classification models using Naive Bayes and Random Forest with preprocessing, evaluation, and overfitting analysis in Python.
+
+- ☕ Coffee Shop Sales Analysis (SQL & BI)  
+  Analyzed sales data with SQL and Power BI to track KPIs, top products, and category-wise revenue insights.
 
 ---
 
